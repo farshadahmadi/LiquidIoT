@@ -1,3 +1,6 @@
 [submodule "LiquidIoT-ResourceRegistry"]
 	path = LiquidIoT-ResourceRegistry
 	url = https://github.com/farshadahmadi/LiquidIoT-ResourceRegistry
+[submodule "LiquidIoT-RuntimeEnvironment"]
+	path = LiquidIoT-RuntimeEnvironment
+	url = https://github.com/farshadahmadi/LiquidIoT-RuntimeEnvironment
