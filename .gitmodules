@@ -1,0 +1,3 @@
+[submodule "LiquidIoT-ResourceRegistry"]
+	path = LiquidIoT-ResourceRegistry
+	url = https://github.com/farshadahmadi/LiquidIoT-ResourceRegistry
