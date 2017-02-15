@@ -4,3 +4,6 @@
 [submodule "LiquidIoT-RuntimeEnvironment"]
 	path = LiquidIoT-RuntimeEnvironment
 	url = https://github.com/farshadahmadi/LiquidIoT-RuntimeEnvironment
+[submodule "LiquidIoT-ApplicationFramework"]
+	path = LiquidIoT-ApplicationFramework
+	url = https://github.com/farshadahmadi/LiquidIoT-ApplicationFramework
