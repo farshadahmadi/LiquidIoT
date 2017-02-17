@@ -1,6 +1,6 @@
 # LiquidIoT Project
 
-This is the official repository for LiquidIoT Project. LiquidIoT project is a research done in Pervasive Computing laboratory at Tampere Universcity of Technology in collaboration with Nokia Technologies.
+This is the official repository for LiquidIoT Project (http://lively.cs.tut.fi/LiquidIoT.html). LiquidIoT project is a research done in Pervasive Computing laboratory at Tampere Universcity of Technology in collaboration with Nokia Technologies. This is 
 
 ## Introduction
 
@@ -41,3 +41,7 @@ There are two main ways to run the component you want:
 1. Directly going to the Github repo for the component you want to run. If you click the component folder it redirects you the Github Repo hosting the components.
 
 2. Clone this repo. Run ```git submodule update --init <specific relative path to submodule>``` to get the latest version of the component you want to run. Then navigate to the folder assoiated with the component. Follow its README file.
+
+## License
+
+This project is under BSD License.
